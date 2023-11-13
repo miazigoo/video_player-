@@ -1,0 +1,24 @@
+.panel {
+    background: black;
+}
+
+.control-buttons{
+    border-style: none;
+    cursor: pointer;
+    background-color: transparent;
+    color: #fff;
+}
+
+.icons {
+    color: white;
+}
+
+.video-container {
+    width: 100%;
+    height: 100%
+}
+
+.player {
+    width: 800px;
+    height: 600px;
+}
