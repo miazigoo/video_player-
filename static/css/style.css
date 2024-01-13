@@ -41,7 +41,7 @@
     height: 600px;
     background: #000000;
 }
-.for-grow {
+.div-for-grow {
     flex-grow: 3;
 }
 
