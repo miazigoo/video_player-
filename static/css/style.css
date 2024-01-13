@@ -16,10 +16,17 @@
     width: 35px;
     color: white;
     font-size: 18pt;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.control-buttons:hover {
+    background-color: gray;
 }
 
 .icons {
     color: white;
+
 }
 
 .video-container {
@@ -34,3 +41,7 @@
     height: 600px;
     background: #000000;
 }
+
+
+
+
